@@ -56,7 +56,7 @@ author:
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
 repository: slickwarren/slickwarren.github.io
-repository_tree: master
+repository_tree: main
 
 
 ## => Paths
@@ -211,8 +211,6 @@ defaults:
       license: true
       aside:
         toc: true
-      show_edit_on_github: true
-      show_subscribe: true
       pageview: true
 
 
