@@ -206,12 +206,14 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: article
+      layout: articles
       sharing: true
       license: true
       aside:
         toc: true
       pageview: true
+      data_source: site.posts
+      show_excerpt: true
 
 
 ## => Plugins
