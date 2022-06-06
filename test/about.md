@@ -18,7 +18,7 @@ titles:
 key: page-about
 ---
 
-Just say something about yourself. :+1:
+This is a test. Where even is this page? :+1:
 
 {% highlight javascript %}
 (() => console.log('hello, world!'))();
