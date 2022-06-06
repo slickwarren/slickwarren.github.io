@@ -3,7 +3,7 @@ layout: articles
 title: Articles - Item (Cover + Excerpt)
 tags: test
 articles:
-  data_source: site.sample_page
+  data_source: site.posts
   show_excerpt: true
 ---
 
